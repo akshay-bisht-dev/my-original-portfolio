@@ -18,7 +18,7 @@ const Home = () => {
       <div className="home-left">
         <h3>HEY THERE!</h3>
         <h1>I'M AKSHAY BISHT</h1>
-        <p>I am Web Developer. I am Bachelor of Technology student and my branch Computer Science & Enginnering. I'am in final year. I heve a lots of Skill such as : HTML5, CSS3, Bootstrap, SASS, Material UI, ReactJS, Git and so on. </p>
+        <p>I'm Web Developer. I am Bachelor of Technology student and my branch Computer Science & Engineering. I'm in final year. I have a lots of Skill such as : HTML5, CSS3, Bootstrap, SASS, Material UI,JavaScript, ReactJS, Git and so on. </p>
         <button onClick={() => goToContact()}>HIRE ME</button>
       </div>
       <div className="home-right">
